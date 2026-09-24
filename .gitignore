@@ -217,4 +217,8 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
+# Generated gallery site (contains real names/drawings from output/) —
+# nothing here is committed automatically; see tools/build_gallery.py.
+/gallery/
+
 output/*
