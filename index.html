@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="sl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Zrakoris — galerija</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="topbar">
+    <h1>Zrakoris <span class="accent">galerija</span></h1>
+    <div class="search-wrap">
+      <input id="search" type="search" placeholder="Poišči po imenu…" autocomplete="off" enterkeyhint="search" aria-label="Poišči po imenu">
+      <span id="count" class="count"></span>
+    </div>
+  </header>
+
+  <main>
+    <p id="status" class="status" hidden></p>
+    <div id="grid" class="grid"></div>
+  </main>
+
+  <div id="modal" class="modal" hidden>
+    <div class="modal-card">
+      <button id="modal-close" class="icon-btn close-btn" aria-label="Zapri">✕</button>
+      <div class="modal-header">
+        <h2 id="modal-name"></h2>
+        <span id="modal-date" class="modal-date"></span>
+      </div>
+
+      <div class="canvas-wrap">
+        <canvas id="replay-canvas"></canvas>
+      </div>
+
+      <div class="controls">
+        <button id="btn-prev" class="icon-btn" aria-label="Prejšnja poteza">⏮</button>
+        <button id="btn-play" class="icon-btn play-btn" aria-label="Predvajaj">▶</button>
+        <button id="btn-next" class="icon-btn" aria-label="Naslednja poteza">⏭</button>
+        <input id="scrubber" type="range" min="0" max="1000" value="1000" aria-label="Časovnica risbe">
+        <span id="move-counter" class="move-counter">0 / 0</span>
+      </div>
+
+      <div class="downloads">
+        <a id="dl-gif" class="btn" download>⬇ GIF</a>
+        <a id="dl-png" class="btn" download>⬇ PNG</a>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js" defer></script>
+</body>
+</html>

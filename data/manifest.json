@@ -1,0 +1,3371 @@
+{
+  "generated_at": "2026-09-24T07:29:02+00:00",
+  "sessions": [
+    {
+      "id": "2026-09-21_0187_ema",
+      "date": "2026-09-21",
+      "session_id": "0187_ema",
+      "name": "Ema",
+      "started_at": "2026-09-19T14:47:18.341Z",
+      "ended_at": "2026-09-19T14:49:43.494Z",
+      "stroke_count": 25,
+      "point_count": 1022,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0187_ema/drawing.gif",
+      "png": "data/2026-09-21/0187_ema/drawing.png",
+      "session": "data/2026-09-21/0187_ema/session.json"
+    },
+    {
+      "id": "2026-09-21_0186_eva",
+      "date": "2026-09-21",
+      "session_id": "0186_eva",
+      "name": "Eva",
+      "started_at": "2026-09-19T14:45:22.846Z",
+      "ended_at": "2026-09-19T14:46:52.321Z",
+      "stroke_count": 9,
+      "point_count": 1140,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0186_eva/drawing.gif",
+      "png": "data/2026-09-21/0186_eva/drawing.png",
+      "session": "data/2026-09-21/0186_eva/session.json"
+    },
+    {
+      "id": "2026-09-21_0185_gal",
+      "date": "2026-09-21",
+      "session_id": "0185_gal",
+      "name": "Gal",
+      "started_at": "2026-09-19T14:44:07.048Z",
+      "ended_at": "2026-09-19T14:45:13.200Z",
+      "stroke_count": 11,
+      "point_count": 843,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0185_gal/drawing.gif",
+      "png": "data/2026-09-21/0185_gal/drawing.png",
+      "session": "data/2026-09-21/0185_gal/session.json"
+    },
+    {
+      "id": "2026-09-21_0184_maj",
+      "date": "2026-09-21",
+      "session_id": "0184_maj",
+      "name": "Maj",
+      "started_at": "2026-09-19T14:42:51.852Z",
+      "ended_at": "2026-09-19T14:43:57.402Z",
+      "stroke_count": 10,
+      "point_count": 398,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0184_maj/drawing.gif",
+      "png": "data/2026-09-21/0184_maj/drawing.png",
+      "session": "data/2026-09-21/0184_maj/session.json"
+    },
+    {
+      "id": "2026-09-21_0183_ariela",
+      "date": "2026-09-21",
+      "session_id": "0183_ariela",
+      "name": "Ariela",
+      "started_at": "2026-09-19T14:41:28.292Z",
+      "ended_at": "2026-09-19T14:42:42.524Z",
+      "stroke_count": 11,
+      "point_count": 1403,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0183_ariela/drawing.gif",
+      "png": "data/2026-09-21/0183_ariela/drawing.png",
+      "session": "data/2026-09-21/0183_ariela/session.json"
+    },
+    {
+      "id": "2026-09-21_0182_jan",
+      "date": "2026-09-21",
+      "session_id": "0182_jan",
+      "name": "Jan",
+      "started_at": "2026-09-19T14:36:47.475Z",
+      "ended_at": "2026-09-19T14:41:24.008Z",
+      "stroke_count": 35,
+      "point_count": 1233,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0182_jan/drawing.gif",
+      "png": "data/2026-09-21/0182_jan/drawing.png",
+      "session": "data/2026-09-21/0182_jan/session.json"
+    },
+    {
+      "id": "2026-09-21_0181_anika",
+      "date": "2026-09-21",
+      "session_id": "0181_anika",
+      "name": "Anika",
+      "started_at": "2026-09-19T14:34:32.495Z",
+      "ended_at": "2026-09-19T14:35:50.397Z",
+      "stroke_count": 6,
+      "point_count": 1317,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0181_anika/drawing.gif",
+      "png": "data/2026-09-21/0181_anika/drawing.png",
+      "session": "data/2026-09-21/0181_anika/session.json"
+    },
+    {
+      "id": "2026-09-21_0180_marjetka",
+      "date": "2026-09-21",
+      "session_id": "0180_marjetka",
+      "name": "marjetka",
+      "started_at": "2026-09-19T14:32:09.193Z",
+      "ended_at": "2026-09-19T14:34:15.377Z",
+      "stroke_count": 15,
+      "point_count": 1235,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0180_marjetka/drawing.gif",
+      "png": "data/2026-09-21/0180_marjetka/drawing.png",
+      "session": "data/2026-09-21/0180_marjetka/session.json"
+    },
+    {
+      "id": "2026-09-21_0179_isa",
+      "date": "2026-09-21",
+      "session_id": "0179_isa",
+      "name": "Isa",
+      "started_at": "2026-09-19T14:30:32.227Z",
+      "ended_at": "2026-09-19T14:32:02.614Z",
+      "stroke_count": 10,
+      "point_count": 622,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0179_isa/drawing.gif",
+      "png": "data/2026-09-21/0179_isa/drawing.png",
+      "session": "data/2026-09-21/0179_isa/session.json"
+    },
+    {
+      "id": "2026-09-21_0178_ma_a",
+      "date": "2026-09-21",
+      "session_id": "0178_ma_a",
+      "name": "Ma\u0161a",
+      "started_at": "2026-09-19T14:29:07.412Z",
+      "ended_at": "2026-09-19T14:30:24.674Z",
+      "stroke_count": 10,
+      "point_count": 1019,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0178_ma_a/drawing.gif",
+      "png": "data/2026-09-21/0178_ma_a/drawing.png",
+      "session": "data/2026-09-21/0178_ma_a/session.json"
+    },
+    {
+      "id": "2026-09-21_0177_ernest",
+      "date": "2026-09-21",
+      "session_id": "0177_ernest",
+      "name": "Ernest",
+      "started_at": "2026-09-19T14:26:46.043Z",
+      "ended_at": "2026-09-19T14:28:46.543Z",
+      "stroke_count": 25,
+      "point_count": 1091,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0177_ernest/drawing.gif",
+      "png": "data/2026-09-21/0177_ernest/drawing.png",
+      "session": "data/2026-09-21/0177_ernest/session.json"
+    },
+    {
+      "id": "2026-09-21_0176_klemen",
+      "date": "2026-09-21",
+      "session_id": "0176_klemen",
+      "name": "Klemen",
+      "started_at": "2026-09-19T14:25:26.733Z",
+      "ended_at": "2026-09-19T14:26:36.733Z",
+      "stroke_count": 18,
+      "point_count": 532,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0176_klemen/drawing.gif",
+      "png": "data/2026-09-21/0176_klemen/drawing.png",
+      "session": "data/2026-09-21/0176_klemen/session.json"
+    },
+    {
+      "id": "2026-09-21_0175_martin",
+      "date": "2026-09-21",
+      "session_id": "0175_martin",
+      "name": "martin",
+      "started_at": "2026-09-19T14:23:50.511Z",
+      "ended_at": "2026-09-19T14:25:16.322Z",
+      "stroke_count": 10,
+      "point_count": 653,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0175_martin/drawing.gif",
+      "png": "data/2026-09-21/0175_martin/drawing.png",
+      "session": "data/2026-09-21/0175_martin/session.json"
+    },
+    {
+      "id": "2026-09-21_0174_ariela2",
+      "date": "2026-09-21",
+      "session_id": "0174_ariela2",
+      "name": "ariela2",
+      "started_at": "2026-09-19T14:22:15.595Z",
+      "ended_at": "2026-09-19T14:23:21.567Z",
+      "stroke_count": 11,
+      "point_count": 834,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0174_ariela2/drawing.gif",
+      "png": "data/2026-09-21/0174_ariela2/drawing.png",
+      "session": "data/2026-09-21/0174_ariela2/session.json"
+    },
+    {
+      "id": "2026-09-21_0173_lara",
+      "date": "2026-09-21",
+      "session_id": "0173_lara",
+      "name": "lara",
+      "started_at": "2026-09-19T14:20:37.299Z",
+      "ended_at": "2026-09-19T14:22:02.672Z",
+      "stroke_count": 19,
+      "point_count": 946,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0173_lara/drawing.gif",
+      "png": "data/2026-09-21/0173_lara/drawing.png",
+      "session": "data/2026-09-21/0173_lara/session.json"
+    },
+    {
+      "id": "2026-09-21_0172_darko",
+      "date": "2026-09-21",
+      "session_id": "0172_darko",
+      "name": "Darko",
+      "started_at": "2026-09-19T14:19:13.552Z",
+      "ended_at": "2026-09-19T14:20:29.864Z",
+      "stroke_count": 23,
+      "point_count": 1198,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0172_darko/drawing.gif",
+      "png": "data/2026-09-21/0172_darko/drawing.png",
+      "session": "data/2026-09-21/0172_darko/session.json"
+    },
+    {
+      "id": "2026-09-21_0171_lina",
+      "date": "2026-09-21",
+      "session_id": "0171_lina",
+      "name": "Lina",
+      "started_at": "2026-09-19T14:16:40.272Z",
+      "ended_at": "2026-09-19T14:17:59.417Z",
+      "stroke_count": 7,
+      "point_count": 701,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0171_lina/drawing.gif",
+      "png": "data/2026-09-21/0171_lina/drawing.png",
+      "session": "data/2026-09-21/0171_lina/session.json"
+    },
+    {
+      "id": "2026-09-21_0170_mateja",
+      "date": "2026-09-21",
+      "session_id": "0170_mateja",
+      "name": "Mateja",
+      "started_at": "2026-09-19T14:15:35.368Z",
+      "ended_at": "2026-09-19T14:16:22.949Z",
+      "stroke_count": 9,
+      "point_count": 646,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0170_mateja/drawing.gif",
+      "png": "data/2026-09-21/0170_mateja/drawing.png",
+      "session": "data/2026-09-21/0170_mateja/session.json"
+    },
+    {
+      "id": "2026-09-21_0169_maj",
+      "date": "2026-09-21",
+      "session_id": "0169_maj",
+      "name": "Maj",
+      "started_at": "2026-09-19T14:12:52.546Z",
+      "ended_at": "2026-09-19T14:14:47.820Z",
+      "stroke_count": 11,
+      "point_count": 894,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0169_maj/drawing.gif",
+      "png": "data/2026-09-21/0169_maj/drawing.png",
+      "session": "data/2026-09-21/0169_maj/session.json"
+    },
+    {
+      "id": "2026-09-21_0168_tija",
+      "date": "2026-09-21",
+      "session_id": "0168_tija",
+      "name": "Tija",
+      "started_at": "2026-09-19T14:11:21.320Z",
+      "ended_at": "2026-09-19T14:12:12.458Z",
+      "stroke_count": 11,
+      "point_count": 451,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0168_tija/drawing.gif",
+      "png": "data/2026-09-21/0168_tija/drawing.png",
+      "session": "data/2026-09-21/0168_tija/session.json"
+    },
+    {
+      "id": "2026-09-21_0167_mark",
+      "date": "2026-09-21",
+      "session_id": "0167_mark",
+      "name": "Mark",
+      "started_at": "2026-09-19T14:09:28.294Z",
+      "ended_at": "2026-09-19T14:11:08.530Z",
+      "stroke_count": 18,
+      "point_count": 946,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0167_mark/drawing.gif",
+      "png": "data/2026-09-21/0167_mark/drawing.png",
+      "session": "data/2026-09-21/0167_mark/session.json"
+    },
+    {
+      "id": "2026-09-21_0166_liza",
+      "date": "2026-09-21",
+      "session_id": "0166_liza",
+      "name": "Liza",
+      "started_at": "2026-09-19T14:06:25.908Z",
+      "ended_at": "2026-09-19T14:08:47.133Z",
+      "stroke_count": 65,
+      "point_count": 2851,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0166_liza/drawing.gif",
+      "png": "data/2026-09-21/0166_liza/drawing.png",
+      "session": "data/2026-09-21/0166_liza/session.json"
+    },
+    {
+      "id": "2026-09-21_0165_antonija",
+      "date": "2026-09-21",
+      "session_id": "0165_antonija",
+      "name": "Antonija",
+      "started_at": "2026-09-19T14:04:12.573Z",
+      "ended_at": "2026-09-19T14:06:07.246Z",
+      "stroke_count": 16,
+      "point_count": 1523,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0165_antonija/drawing.gif",
+      "png": "data/2026-09-21/0165_antonija/drawing.png",
+      "session": "data/2026-09-21/0165_antonija/session.json"
+    },
+    {
+      "id": "2026-09-21_0164_katja",
+      "date": "2026-09-21",
+      "session_id": "0164_katja",
+      "name": "Katja",
+      "started_at": "2026-09-19T14:02:27.330Z",
+      "ended_at": "2026-09-19T14:03:34.389Z",
+      "stroke_count": 13,
+      "point_count": 1235,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0164_katja/drawing.gif",
+      "png": "data/2026-09-21/0164_katja/drawing.png",
+      "session": "data/2026-09-21/0164_katja/session.json"
+    },
+    {
+      "id": "2026-09-21_0163_marta",
+      "date": "2026-09-21",
+      "session_id": "0163_marta",
+      "name": "Marta",
+      "started_at": "2026-09-19T13:59:21.522Z",
+      "ended_at": "2026-09-19T14:01:06.389Z",
+      "stroke_count": 15,
+      "point_count": 1083,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0163_marta/drawing.gif",
+      "png": "data/2026-09-21/0163_marta/drawing.png",
+      "session": "data/2026-09-21/0163_marta/session.json"
+    },
+    {
+      "id": "2026-09-21_0162_mark",
+      "date": "2026-09-21",
+      "session_id": "0162_mark",
+      "name": "Mark",
+      "started_at": "2026-09-19T13:56:21.504Z",
+      "ended_at": "2026-09-19T13:59:05.056Z",
+      "stroke_count": 23,
+      "point_count": 1589,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0162_mark/drawing.gif",
+      "png": "data/2026-09-21/0162_mark/drawing.png",
+      "session": "data/2026-09-21/0162_mark/session.json"
+    },
+    {
+      "id": "2026-09-21_0161_ajda",
+      "date": "2026-09-21",
+      "session_id": "0161_ajda",
+      "name": "ajda",
+      "started_at": "2026-09-19T13:54:05.783Z",
+      "ended_at": "2026-09-19T13:55:46.786Z",
+      "stroke_count": 15,
+      "point_count": 885,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0161_ajda/drawing.gif",
+      "png": "data/2026-09-21/0161_ajda/drawing.png",
+      "session": "data/2026-09-21/0161_ajda/session.json"
+    },
+    {
+      "id": "2026-09-21_0160_arja",
+      "date": "2026-09-21",
+      "session_id": "0160_arja",
+      "name": "arja",
+      "started_at": "2026-09-19T13:52:39.347Z",
+      "ended_at": "2026-09-19T13:53:58.008Z",
+      "stroke_count": 7,
+      "point_count": 565,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0160_arja/drawing.gif",
+      "png": "data/2026-09-21/0160_arja/drawing.png",
+      "session": "data/2026-09-21/0160_arja/session.json"
+    },
+    {
+      "id": "2026-09-21_0159_tea",
+      "date": "2026-09-21",
+      "session_id": "0159_tea",
+      "name": "tea",
+      "started_at": "2026-09-19T13:49:51.304Z",
+      "ended_at": "2026-09-19T13:51:24.432Z",
+      "stroke_count": 12,
+      "point_count": 917,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0159_tea/drawing.gif",
+      "png": "data/2026-09-21/0159_tea/drawing.png",
+      "session": "data/2026-09-21/0159_tea/session.json"
+    },
+    {
+      "id": "2026-09-21_0158_lara",
+      "date": "2026-09-21",
+      "session_id": "0158_lara",
+      "name": "lara",
+      "started_at": "2026-09-19T13:44:01.032Z",
+      "ended_at": "2026-09-19T13:47:19.060Z",
+      "stroke_count": 22,
+      "point_count": 2286,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0158_lara/drawing.gif",
+      "png": "data/2026-09-21/0158_lara/drawing.png",
+      "session": "data/2026-09-21/0158_lara/session.json"
+    },
+    {
+      "id": "2026-09-21_0157_ali",
+      "date": "2026-09-21",
+      "session_id": "0157_ali",
+      "name": "ali",
+      "started_at": "2026-09-19T13:38:43.821Z",
+      "ended_at": "2026-09-19T13:43:49.345Z",
+      "stroke_count": 63,
+      "point_count": 2685,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0157_ali/drawing.gif",
+      "png": "data/2026-09-21/0157_ali/drawing.png",
+      "session": "data/2026-09-21/0157_ali/session.json"
+    },
+    {
+      "id": "2026-09-21_0156_tara",
+      "date": "2026-09-21",
+      "session_id": "0156_tara",
+      "name": "tara",
+      "started_at": "2026-09-19T13:34:40.477Z",
+      "ended_at": "2026-09-19T13:38:17.501Z",
+      "stroke_count": 16,
+      "point_count": 5306,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0156_tara/drawing.gif",
+      "png": "data/2026-09-21/0156_tara/drawing.png",
+      "session": "data/2026-09-21/0156_tara/session.json"
+    },
+    {
+      "id": "2026-09-21_0155_taras",
+      "date": "2026-09-21",
+      "session_id": "0155_taras",
+      "name": "taras",
+      "started_at": "2026-09-19T13:32:21.518Z",
+      "ended_at": "2026-09-19T13:34:32.068Z",
+      "stroke_count": 15,
+      "point_count": 1370,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0155_taras/drawing.gif",
+      "png": "data/2026-09-21/0155_taras/drawing.png",
+      "session": "data/2026-09-21/0155_taras/session.json"
+    },
+    {
+      "id": "2026-09-21_0154_ula",
+      "date": "2026-09-21",
+      "session_id": "0154_ula",
+      "name": "ula",
+      "started_at": "2026-09-19T13:30:22.552Z",
+      "ended_at": "2026-09-19T13:31:41.780Z",
+      "stroke_count": 10,
+      "point_count": 1600,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0154_ula/drawing.gif",
+      "png": "data/2026-09-21/0154_ula/drawing.png",
+      "session": "data/2026-09-21/0154_ula/session.json"
+    },
+    {
+      "id": "2026-09-21_0153_lara",
+      "date": "2026-09-21",
+      "session_id": "0153_lara",
+      "name": "lara",
+      "started_at": "2026-09-19T13:28:27.739Z",
+      "ended_at": "2026-09-19T13:29:58.583Z",
+      "stroke_count": 8,
+      "point_count": 1152,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0153_lara/drawing.gif",
+      "png": "data/2026-09-21/0153_lara/drawing.png",
+      "session": "data/2026-09-21/0153_lara/session.json"
+    },
+    {
+      "id": "2026-09-21_0152_tinkara",
+      "date": "2026-09-21",
+      "session_id": "0152_tinkara",
+      "name": "tinkara",
+      "started_at": "2026-09-19T13:26:38.615Z",
+      "ended_at": "2026-09-19T13:28:18.025Z",
+      "stroke_count": 13,
+      "point_count": 1297,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0152_tinkara/drawing.gif",
+      "png": "data/2026-09-21/0152_tinkara/drawing.png",
+      "session": "data/2026-09-21/0152_tinkara/session.json"
+    },
+    {
+      "id": "2026-09-21_0151_tobija",
+      "date": "2026-09-21",
+      "session_id": "0151_tobija",
+      "name": "tobija",
+      "started_at": "2026-09-19T13:25:19.718Z",
+      "ended_at": "2026-09-19T13:26:28.922Z",
+      "stroke_count": 7,
+      "point_count": 1305,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0151_tobija/drawing.gif",
+      "png": "data/2026-09-21/0151_tobija/drawing.png",
+      "session": "data/2026-09-21/0151_tobija/session.json"
+    },
+    {
+      "id": "2026-09-21_0150_gal",
+      "date": "2026-09-21",
+      "session_id": "0150_gal",
+      "name": "gal",
+      "started_at": "2026-09-19T13:23:20.634Z",
+      "ended_at": "2026-09-19T13:24:55.025Z",
+      "stroke_count": 21,
+      "point_count": 1327,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0150_gal/drawing.gif",
+      "png": "data/2026-09-21/0150_gal/drawing.png",
+      "session": "data/2026-09-21/0150_gal/session.json"
+    },
+    {
+      "id": "2026-09-21_0149_teo",
+      "date": "2026-09-21",
+      "session_id": "0149_teo",
+      "name": "teo",
+      "started_at": "2026-09-19T13:20:59.466Z",
+      "ended_at": "2026-09-19T13:22:25.066Z",
+      "stroke_count": 15,
+      "point_count": 872,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0149_teo/drawing.gif",
+      "png": "data/2026-09-21/0149_teo/drawing.png",
+      "session": "data/2026-09-21/0149_teo/session.json"
+    },
+    {
+      "id": "2026-09-21_0148_jakob",
+      "date": "2026-09-21",
+      "session_id": "0148_jakob",
+      "name": "jakob",
+      "started_at": "2026-09-19T13:18:59.462Z",
+      "ended_at": "2026-09-19T13:20:12.655Z",
+      "stroke_count": 6,
+      "point_count": 1563,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0148_jakob/drawing.gif",
+      "png": "data/2026-09-21/0148_jakob/drawing.png",
+      "session": "data/2026-09-21/0148_jakob/session.json"
+    },
+    {
+      "id": "2026-09-21_0147_tilen",
+      "date": "2026-09-21",
+      "session_id": "0147_tilen",
+      "name": "tilen",
+      "started_at": "2026-09-19T13:17:23.595Z",
+      "ended_at": "2026-09-19T13:18:38.203Z",
+      "stroke_count": 29,
+      "point_count": 1413,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0147_tilen/drawing.gif",
+      "png": "data/2026-09-21/0147_tilen/drawing.png",
+      "session": "data/2026-09-21/0147_tilen/session.json"
+    },
+    {
+      "id": "2026-09-21_0146_sanja",
+      "date": "2026-09-21",
+      "session_id": "0146_sanja",
+      "name": "sanja",
+      "started_at": "2026-09-19T13:15:20.667Z",
+      "ended_at": "2026-09-19T13:16:59.312Z",
+      "stroke_count": 16,
+      "point_count": 1286,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0146_sanja/drawing.gif",
+      "png": "data/2026-09-21/0146_sanja/drawing.png",
+      "session": "data/2026-09-21/0146_sanja/session.json"
+    },
+    {
+      "id": "2026-09-21_0145_karin",
+      "date": "2026-09-21",
+      "session_id": "0145_karin",
+      "name": "Karin",
+      "started_at": "2026-09-19T13:13:34.536Z",
+      "ended_at": "2026-09-19T13:14:49.353Z",
+      "stroke_count": 5,
+      "point_count": 680,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0145_karin/drawing.gif",
+      "png": "data/2026-09-21/0145_karin/drawing.png",
+      "session": "data/2026-09-21/0145_karin/session.json"
+    },
+    {
+      "id": "2026-09-21_0144_nio",
+      "date": "2026-09-21",
+      "session_id": "0144_nio",
+      "name": "nio",
+      "started_at": "2026-09-19T13:10:38.541Z",
+      "ended_at": "2026-09-19T13:11:59.490Z",
+      "stroke_count": 17,
+      "point_count": 587,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0144_nio/drawing.gif",
+      "png": "data/2026-09-21/0144_nio/drawing.png",
+      "session": "data/2026-09-21/0144_nio/session.json"
+    },
+    {
+      "id": "2026-09-21_0143_sara",
+      "date": "2026-09-21",
+      "session_id": "0143_sara",
+      "name": "sara",
+      "started_at": "2026-09-19T13:09:12.652Z",
+      "ended_at": "2026-09-19T13:10:26.278Z",
+      "stroke_count": 9,
+      "point_count": 1304,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0143_sara/drawing.gif",
+      "png": "data/2026-09-21/0143_sara/drawing.png",
+      "session": "data/2026-09-21/0143_sara/session.json"
+    },
+    {
+      "id": "2026-09-21_0142_tijan",
+      "date": "2026-09-21",
+      "session_id": "0142_tijan",
+      "name": "tijan",
+      "started_at": "2026-09-19T13:06:24.713Z",
+      "ended_at": "2026-09-19T13:08:45.319Z",
+      "stroke_count": 38,
+      "point_count": 2282,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0142_tijan/drawing.gif",
+      "png": "data/2026-09-21/0142_tijan/drawing.png",
+      "session": "data/2026-09-21/0142_tijan/session.json"
+    },
+    {
+      "id": "2026-09-21_0141_nika",
+      "date": "2026-09-21",
+      "session_id": "0141_nika",
+      "name": "nika",
+      "started_at": "2026-09-19T13:02:37.599Z",
+      "ended_at": "2026-09-19T13:05:03.599Z",
+      "stroke_count": 43,
+      "point_count": 1509,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0141_nika/drawing.gif",
+      "png": "data/2026-09-21/0141_nika/drawing.png",
+      "session": "data/2026-09-21/0141_nika/session.json"
+    },
+    {
+      "id": "2026-09-21_0140_sanja",
+      "date": "2026-09-21",
+      "session_id": "0140_sanja",
+      "name": "Sanja",
+      "started_at": "2026-09-19T12:59:34.578Z",
+      "ended_at": "2026-09-19T13:02:03.840Z",
+      "stroke_count": 35,
+      "point_count": 1809,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0140_sanja/drawing.gif",
+      "png": "data/2026-09-21/0140_sanja/drawing.png",
+      "session": "data/2026-09-21/0140_sanja/session.json"
+    },
+    {
+      "id": "2026-09-21_0139_maksim",
+      "date": "2026-09-21",
+      "session_id": "0139_maksim",
+      "name": "Maksim",
+      "started_at": "2026-09-19T12:56:58.699Z",
+      "ended_at": "2026-09-19T12:59:20.520Z",
+      "stroke_count": 16,
+      "point_count": 1369,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0139_maksim/drawing.gif",
+      "png": "data/2026-09-21/0139_maksim/drawing.png",
+      "session": "data/2026-09-21/0139_maksim/session.json"
+    },
+    {
+      "id": "2026-09-21_0138_ariana",
+      "date": "2026-09-21",
+      "session_id": "0138_ariana",
+      "name": "Ariana",
+      "started_at": "2026-09-19T12:55:21.492Z",
+      "ended_at": "2026-09-19T12:56:31.524Z",
+      "stroke_count": 6,
+      "point_count": 1218,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0138_ariana/drawing.gif",
+      "png": "data/2026-09-21/0138_ariana/drawing.png",
+      "session": "data/2026-09-21/0138_ariana/session.json"
+    },
+    {
+      "id": "2026-09-21_0137_bine",
+      "date": "2026-09-21",
+      "session_id": "0137_bine",
+      "name": "bine",
+      "started_at": "2026-09-19T12:53:13.292Z",
+      "ended_at": "2026-09-19T12:54:29.912Z",
+      "stroke_count": 9,
+      "point_count": 1067,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0137_bine/drawing.gif",
+      "png": "data/2026-09-21/0137_bine/drawing.png",
+      "session": "data/2026-09-21/0137_bine/session.json"
+    },
+    {
+      "id": "2026-09-21_0136_tanja",
+      "date": "2026-09-21",
+      "session_id": "0136_tanja",
+      "name": "tanja",
+      "started_at": "2026-09-19T12:51:38.010Z",
+      "ended_at": "2026-09-19T12:53:05.638Z",
+      "stroke_count": 10,
+      "point_count": 810,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0136_tanja/drawing.gif",
+      "png": "data/2026-09-21/0136_tanja/drawing.png",
+      "session": "data/2026-09-21/0136_tanja/session.json"
+    },
+    {
+      "id": "2026-09-21_0135_ajda",
+      "date": "2026-09-21",
+      "session_id": "0135_ajda",
+      "name": "ajda",
+      "started_at": "2026-09-19T12:49:13.046Z",
+      "ended_at": "2026-09-19T12:50:02.336Z",
+      "stroke_count": 9,
+      "point_count": 249,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0135_ajda/drawing.gif",
+      "png": "data/2026-09-21/0135_ajda/drawing.png",
+      "session": "data/2026-09-21/0135_ajda/session.json"
+    },
+    {
+      "id": "2026-09-21_0134_ema",
+      "date": "2026-09-21",
+      "session_id": "0134_ema",
+      "name": "ema",
+      "started_at": "2026-09-19T12:47:04.373Z",
+      "ended_at": "2026-09-19T12:49:04.259Z",
+      "stroke_count": 27,
+      "point_count": 1236,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0134_ema/drawing.gif",
+      "png": "data/2026-09-21/0134_ema/drawing.png",
+      "session": "data/2026-09-21/0134_ema/session.json"
+    },
+    {
+      "id": "2026-09-21_0133_sara",
+      "date": "2026-09-21",
+      "session_id": "0133_sara",
+      "name": "sara",
+      "started_at": "2026-09-19T12:46:22.700Z",
+      "ended_at": "2026-09-19T12:46:53.381Z",
+      "stroke_count": 11,
+      "point_count": 440,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0133_sara/drawing.gif",
+      "png": "data/2026-09-21/0133_sara/drawing.png",
+      "session": "data/2026-09-21/0133_sara/session.json"
+    },
+    {
+      "id": "2026-09-21_0132_brina",
+      "date": "2026-09-21",
+      "session_id": "0132_brina",
+      "name": "brina",
+      "started_at": "2026-09-19T12:44:46.117Z",
+      "ended_at": "2026-09-19T12:45:59.492Z",
+      "stroke_count": 18,
+      "point_count": 900,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0132_brina/drawing.gif",
+      "png": "data/2026-09-21/0132_brina/drawing.png",
+      "session": "data/2026-09-21/0132_brina/session.json"
+    },
+    {
+      "id": "2026-09-21_0131_hana",
+      "date": "2026-09-21",
+      "session_id": "0131_hana",
+      "name": "hana",
+      "started_at": "2026-09-19T12:43:42.463Z",
+      "ended_at": "2026-09-19T12:44:38.871Z",
+      "stroke_count": 15,
+      "point_count": 487,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0131_hana/drawing.gif",
+      "png": "data/2026-09-21/0131_hana/drawing.png",
+      "session": "data/2026-09-21/0131_hana/session.json"
+    },
+    {
+      "id": "2026-09-21_0130_vitan",
+      "date": "2026-09-21",
+      "session_id": "0130_vitan",
+      "name": "vitan",
+      "started_at": "2026-09-19T12:41:08.894Z",
+      "ended_at": "2026-09-19T12:43:23.884Z",
+      "stroke_count": 29,
+      "point_count": 1077,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0130_vitan/drawing.gif",
+      "png": "data/2026-09-21/0130_vitan/drawing.png",
+      "session": "data/2026-09-21/0130_vitan/session.json"
+    },
+    {
+      "id": "2026-09-21_0129_nastja",
+      "date": "2026-09-21",
+      "session_id": "0129_nastja",
+      "name": "nastja",
+      "started_at": "2026-09-19T12:33:39.693Z",
+      "ended_at": "2026-09-19T12:34:54.969Z",
+      "stroke_count": 12,
+      "point_count": 719,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0129_nastja/drawing.gif",
+      "png": "data/2026-09-21/0129_nastja/drawing.png",
+      "session": "data/2026-09-21/0129_nastja/session.json"
+    },
+    {
+      "id": "2026-09-21_0128_iza",
+      "date": "2026-09-21",
+      "session_id": "0128_iza",
+      "name": "iza",
+      "started_at": "2026-09-19T12:32:41.650Z",
+      "ended_at": "2026-09-19T12:33:28.743Z",
+      "stroke_count": 6,
+      "point_count": 485,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0128_iza/drawing.gif",
+      "png": "data/2026-09-21/0128_iza/drawing.png",
+      "session": "data/2026-09-21/0128_iza/session.json"
+    },
+    {
+      "id": "2026-09-21_0127_nina",
+      "date": "2026-09-21",
+      "session_id": "0127_nina",
+      "name": "nina",
+      "started_at": "2026-09-19T12:31:18.695Z",
+      "ended_at": "2026-09-19T12:32:27.617Z",
+      "stroke_count": 4,
+      "point_count": 1128,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0127_nina/drawing.gif",
+      "png": "data/2026-09-21/0127_nina/drawing.png",
+      "session": "data/2026-09-21/0127_nina/session.json"
+    },
+    {
+      "id": "2026-09-21_0126_maj",
+      "date": "2026-09-21",
+      "session_id": "0126_maj",
+      "name": "maj",
+      "started_at": "2026-09-19T12:21:35.579Z",
+      "ended_at": "2026-09-19T12:23:22.153Z",
+      "stroke_count": 15,
+      "point_count": 1914,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0126_maj/drawing.gif",
+      "png": "data/2026-09-21/0126_maj/drawing.png",
+      "session": "data/2026-09-21/0126_maj/session.json"
+    },
+    {
+      "id": "2026-09-21_0125_salih",
+      "date": "2026-09-21",
+      "session_id": "0125_salih",
+      "name": "salih",
+      "started_at": "2026-09-19T12:09:49.870Z",
+      "ended_at": "2026-09-19T12:10:57.180Z",
+      "stroke_count": 7,
+      "point_count": 915,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0125_salih/drawing.gif",
+      "png": "data/2026-09-21/0125_salih/drawing.png",
+      "session": "data/2026-09-21/0125_salih/session.json"
+    },
+    {
+      "id": "2026-09-21_0124_aljo_a",
+      "date": "2026-09-21",
+      "session_id": "0124_aljo_a",
+      "name": "aljo\u0161a",
+      "started_at": "2026-09-19T12:06:30.664Z",
+      "ended_at": "2026-09-19T12:08:34.900Z",
+      "stroke_count": 1,
+      "point_count": 451,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0124_aljo_a/drawing.gif",
+      "png": "data/2026-09-21/0124_aljo_a/drawing.png",
+      "session": "data/2026-09-21/0124_aljo_a/session.json"
+    },
+    {
+      "id": "2026-09-21_0123_tanaj",
+      "date": "2026-09-21",
+      "session_id": "0123_tanaj",
+      "name": "tanaj",
+      "started_at": "2026-09-19T11:59:36.462Z",
+      "ended_at": "2026-09-19T12:00:50.868Z",
+      "stroke_count": 7,
+      "point_count": 386,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0123_tanaj/drawing.gif",
+      "png": "data/2026-09-21/0123_tanaj/drawing.png",
+      "session": "data/2026-09-21/0123_tanaj/session.json"
+    },
+    {
+      "id": "2026-09-21_0122_tanja",
+      "date": "2026-09-21",
+      "session_id": "0122_tanja",
+      "name": "tanja",
+      "started_at": "2026-09-19T11:57:08.552Z",
+      "ended_at": "2026-09-19T11:59:07.612Z",
+      "stroke_count": 5,
+      "point_count": 1774,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0122_tanja/drawing.gif",
+      "png": "data/2026-09-21/0122_tanja/drawing.png",
+      "session": "data/2026-09-21/0122_tanja/session.json"
+    },
+    {
+      "id": "2026-09-21_0121_tadej",
+      "date": "2026-09-21",
+      "session_id": "0121_tadej",
+      "name": "Tadej",
+      "started_at": "2026-09-19T11:51:44.159Z",
+      "ended_at": "2026-09-19T11:52:43.262Z",
+      "stroke_count": 6,
+      "point_count": 543,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0121_tadej/drawing.gif",
+      "png": "data/2026-09-21/0121_tadej/drawing.png",
+      "session": "data/2026-09-21/0121_tadej/session.json"
+    },
+    {
+      "id": "2026-09-21_0120_adam",
+      "date": "2026-09-21",
+      "session_id": "0120_adam",
+      "name": "Adam",
+      "started_at": "2026-09-19T11:49:01.174Z",
+      "ended_at": "2026-09-19T11:51:15.571Z",
+      "stroke_count": 16,
+      "point_count": 1737,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0120_adam/drawing.gif",
+      "png": "data/2026-09-21/0120_adam/drawing.png",
+      "session": "data/2026-09-21/0120_adam/session.json"
+    },
+    {
+      "id": "2026-09-21_0119_gloria",
+      "date": "2026-09-21",
+      "session_id": "0119_gloria",
+      "name": "Gloria",
+      "started_at": "2026-09-19T11:47:51.607Z",
+      "ended_at": "2026-09-19T11:48:54.709Z",
+      "stroke_count": 10,
+      "point_count": 744,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0119_gloria/drawing.gif",
+      "png": "data/2026-09-21/0119_gloria/drawing.png",
+      "session": "data/2026-09-21/0119_gloria/session.json"
+    },
+    {
+      "id": "2026-09-21_0118_sofia",
+      "date": "2026-09-21",
+      "session_id": "0118_sofia",
+      "name": "Sofia",
+      "started_at": "2026-09-19T11:44:01.626Z",
+      "ended_at": "2026-09-19T11:47:37.361Z",
+      "stroke_count": 24,
+      "point_count": 3953,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0118_sofia/drawing.gif",
+      "png": "data/2026-09-21/0118_sofia/drawing.png",
+      "session": "data/2026-09-21/0118_sofia/session.json"
+    },
+    {
+      "id": "2026-09-21_0117_vanja",
+      "date": "2026-09-21",
+      "session_id": "0117_vanja",
+      "name": "Vanja",
+      "started_at": "2026-09-19T11:42:13.879Z",
+      "ended_at": "2026-09-19T11:42:36.607Z",
+      "stroke_count": 5,
+      "point_count": 272,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0117_vanja/drawing.gif",
+      "png": "data/2026-09-21/0117_vanja/drawing.png",
+      "session": "data/2026-09-21/0117_vanja/session.json"
+    },
+    {
+      "id": "2026-09-21_0116_petja",
+      "date": "2026-09-21",
+      "session_id": "0116_petja",
+      "name": "Petja",
+      "started_at": "2026-09-19T11:40:26.986Z",
+      "ended_at": "2026-09-19T11:42:01.891Z",
+      "stroke_count": 12,
+      "point_count": 1017,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0116_petja/drawing.gif",
+      "png": "data/2026-09-21/0116_petja/drawing.png",
+      "session": "data/2026-09-21/0116_petja/session.json"
+    },
+    {
+      "id": "2026-09-21_0115_ivan",
+      "date": "2026-09-21",
+      "session_id": "0115_ivan",
+      "name": "Ivan",
+      "started_at": "2026-09-19T11:39:03.263Z",
+      "ended_at": "2026-09-19T11:40:11.644Z",
+      "stroke_count": 6,
+      "point_count": 713,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0115_ivan/drawing.gif",
+      "png": "data/2026-09-21/0115_ivan/drawing.png",
+      "session": "data/2026-09-21/0115_ivan/session.json"
+    },
+    {
+      "id": "2026-09-21_0114_ariela99",
+      "date": "2026-09-21",
+      "session_id": "0114_ariela99",
+      "name": "ariela99",
+      "started_at": "2026-09-19T11:37:50.952Z",
+      "ended_at": "2026-09-19T11:38:55.636Z",
+      "stroke_count": 7,
+      "point_count": 789,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0114_ariela99/drawing.gif",
+      "png": "data/2026-09-21/0114_ariela99/drawing.png",
+      "session": "data/2026-09-21/0114_ariela99/session.json"
+    },
+    {
+      "id": "2026-09-21_0113_miha_slejko",
+      "date": "2026-09-21",
+      "session_id": "0113_miha_slejko",
+      "name": "miha slejko",
+      "started_at": "2026-09-19T11:35:26.288Z",
+      "ended_at": "2026-09-19T11:37:40.441Z",
+      "stroke_count": 8,
+      "point_count": 2081,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0113_miha_slejko/drawing.gif",
+      "png": "data/2026-09-21/0113_miha_slejko/drawing.png",
+      "session": "data/2026-09-21/0113_miha_slejko/session.json"
+    },
+    {
+      "id": "2026-09-21_0112_miha",
+      "date": "2026-09-21",
+      "session_id": "0112_miha",
+      "name": "miha",
+      "started_at": "2026-09-19T11:31:59.763Z",
+      "ended_at": "2026-09-19T11:35:20.294Z",
+      "stroke_count": 20,
+      "point_count": 2465,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0112_miha/drawing.gif",
+      "png": "data/2026-09-21/0112_miha/drawing.png",
+      "session": "data/2026-09-21/0112_miha/session.json"
+    },
+    {
+      "id": "2026-09-21_0111_darlena",
+      "date": "2026-09-21",
+      "session_id": "0111_darlena",
+      "name": "Darlena",
+      "started_at": "2026-09-19T11:27:55.287Z",
+      "ended_at": "2026-09-19T11:31:01.365Z",
+      "stroke_count": 14,
+      "point_count": 2376,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0111_darlena/drawing.gif",
+      "png": "data/2026-09-21/0111_darlena/drawing.png",
+      "session": "data/2026-09-21/0111_darlena/session.json"
+    },
+    {
+      "id": "2026-09-21_0110_ja_a",
+      "date": "2026-09-21",
+      "session_id": "0110_ja_a",
+      "name": "Ja\u0161a",
+      "started_at": "2026-09-19T11:21:18.972Z",
+      "ended_at": "2026-09-19T11:27:39.742Z",
+      "stroke_count": 33,
+      "point_count": 4692,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0110_ja_a/drawing.gif",
+      "png": "data/2026-09-21/0110_ja_a/drawing.png",
+      "session": "data/2026-09-21/0110_ja_a/session.json"
+    },
+    {
+      "id": "2026-09-21_0109_miha",
+      "date": "2026-09-21",
+      "session_id": "0109_miha",
+      "name": "Miha",
+      "started_at": "2026-09-19T11:19:20.094Z",
+      "ended_at": "2026-09-19T11:21:04.643Z",
+      "stroke_count": 8,
+      "point_count": 1952,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0109_miha/drawing.gif",
+      "png": "data/2026-09-21/0109_miha/drawing.png",
+      "session": "data/2026-09-21/0109_miha/session.json"
+    },
+    {
+      "id": "2026-09-21_0108_brina",
+      "date": "2026-09-21",
+      "session_id": "0108_brina",
+      "name": "Brina",
+      "started_at": "2026-09-19T11:12:58.711Z",
+      "ended_at": "2026-09-19T11:16:12.728Z",
+      "stroke_count": 21,
+      "point_count": 1731,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0108_brina/drawing.gif",
+      "png": "data/2026-09-21/0108_brina/drawing.png",
+      "session": "data/2026-09-21/0108_brina/session.json"
+    },
+    {
+      "id": "2026-09-21_0107_miha",
+      "date": "2026-09-21",
+      "session_id": "0107_miha",
+      "name": "Miha",
+      "started_at": "2026-09-19T11:09:45.279Z",
+      "ended_at": "2026-09-19T11:12:33.652Z",
+      "stroke_count": 13,
+      "point_count": 3130,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0107_miha/drawing.gif",
+      "png": "data/2026-09-21/0107_miha/drawing.png",
+      "session": "data/2026-09-21/0107_miha/session.json"
+    },
+    {
+      "id": "2026-09-21_0106_darina",
+      "date": "2026-09-21",
+      "session_id": "0106_darina",
+      "name": "darina",
+      "started_at": "2026-09-19T11:07:49.581Z",
+      "ended_at": "2026-09-19T11:08:47.963Z",
+      "stroke_count": 16,
+      "point_count": 1217,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0106_darina/drawing.gif",
+      "png": "data/2026-09-21/0106_darina/drawing.png",
+      "session": "data/2026-09-21/0106_darina/session.json"
+    },
+    {
+      "id": "2026-09-21_0105_ariela3",
+      "date": "2026-09-21",
+      "session_id": "0105_ariela3",
+      "name": "ariela3",
+      "started_at": "2026-09-19T11:04:35.471Z",
+      "ended_at": "2026-09-19T11:07:40.074Z",
+      "stroke_count": 26,
+      "point_count": 2852,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0105_ariela3/drawing.gif",
+      "png": "data/2026-09-21/0105_ariela3/drawing.png",
+      "session": "data/2026-09-21/0105_ariela3/session.json"
+    },
+    {
+      "id": "2026-09-21_0104_alenka",
+      "date": "2026-09-21",
+      "session_id": "0104_alenka",
+      "name": "alenka",
+      "started_at": "2026-09-19T11:02:13.376Z",
+      "ended_at": "2026-09-19T11:03:33.534Z",
+      "stroke_count": 8,
+      "point_count": 822,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0104_alenka/drawing.gif",
+      "png": "data/2026-09-21/0104_alenka/drawing.png",
+      "session": "data/2026-09-21/0104_alenka/session.json"
+    },
+    {
+      "id": "2026-09-21_0103_ariela",
+      "date": "2026-09-21",
+      "session_id": "0103_ariela",
+      "name": "ariela",
+      "started_at": "2026-09-19T10:58:50.031Z",
+      "ended_at": "2026-09-19T11:01:54.194Z",
+      "stroke_count": 3,
+      "point_count": 4279,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0103_ariela/drawing.gif",
+      "png": "data/2026-09-21/0103_ariela/drawing.png",
+      "session": "data/2026-09-21/0103_ariela/session.json"
+    },
+    {
+      "id": "2026-09-21_0102_gaja",
+      "date": "2026-09-21",
+      "session_id": "0102_gaja",
+      "name": "gaja",
+      "started_at": "2026-09-19T10:56:43.324Z",
+      "ended_at": "2026-09-19T10:58:29.699Z",
+      "stroke_count": 12,
+      "point_count": 610,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0102_gaja/drawing.gif",
+      "png": "data/2026-09-21/0102_gaja/drawing.png",
+      "session": "data/2026-09-21/0102_gaja/session.json"
+    },
+    {
+      "id": "2026-09-21_0101_tanja",
+      "date": "2026-09-21",
+      "session_id": "0101_tanja",
+      "name": "tanja",
+      "started_at": "2026-09-19T10:51:38.918Z",
+      "ended_at": "2026-09-19T10:54:05.060Z",
+      "stroke_count": 31,
+      "point_count": 1684,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0101_tanja/drawing.gif",
+      "png": "data/2026-09-21/0101_tanja/drawing.png",
+      "session": "data/2026-09-21/0101_tanja/session.json"
+    },
+    {
+      "id": "2026-09-21_0100_matev",
+      "date": "2026-09-21",
+      "session_id": "0100_matev",
+      "name": "matev\u017e",
+      "started_at": "2026-09-19T10:49:11.566Z",
+      "ended_at": "2026-09-19T10:51:13.685Z",
+      "stroke_count": 13,
+      "point_count": 853,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0100_matev/drawing.gif",
+      "png": "data/2026-09-21/0100_matev/drawing.png",
+      "session": "data/2026-09-21/0100_matev/session.json"
+    },
+    {
+      "id": "2026-09-21_0099_maru_a",
+      "date": "2026-09-21",
+      "session_id": "0099_maru_a",
+      "name": "maru\u0161a",
+      "started_at": "2026-09-19T10:46:55.457Z",
+      "ended_at": "2026-09-19T10:48:06.105Z",
+      "stroke_count": 16,
+      "point_count": 877,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0099_maru_a/drawing.gif",
+      "png": "data/2026-09-21/0099_maru_a/drawing.png",
+      "session": "data/2026-09-21/0099_maru_a/session.json"
+    },
+    {
+      "id": "2026-09-21_0098_du_a",
+      "date": "2026-09-21",
+      "session_id": "0098_du_a",
+      "name": "du\u0161a",
+      "started_at": "2026-09-19T10:44:42.240Z",
+      "ended_at": "2026-09-19T10:46:00.944Z",
+      "stroke_count": 12,
+      "point_count": 1120,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0098_du_a/drawing.gif",
+      "png": "data/2026-09-21/0098_du_a/drawing.png",
+      "session": "data/2026-09-21/0098_du_a/session.json"
+    },
+    {
+      "id": "2026-09-21_0097_meldim",
+      "date": "2026-09-21",
+      "session_id": "0097_meldim",
+      "name": "meldim",
+      "started_at": "2026-09-19T10:42:18.043Z",
+      "ended_at": "2026-09-19T10:44:33.557Z",
+      "stroke_count": 15,
+      "point_count": 1678,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0097_meldim/drawing.gif",
+      "png": "data/2026-09-21/0097_meldim/drawing.png",
+      "session": "data/2026-09-21/0097_meldim/session.json"
+    },
+    {
+      "id": "2026-09-21_0096_oskar",
+      "date": "2026-09-21",
+      "session_id": "0096_oskar",
+      "name": "oskar",
+      "started_at": "2026-09-19T10:40:09.242Z",
+      "ended_at": "2026-09-19T10:41:51.924Z",
+      "stroke_count": 11,
+      "point_count": 919,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0096_oskar/drawing.gif",
+      "png": "data/2026-09-21/0096_oskar/drawing.png",
+      "session": "data/2026-09-21/0096_oskar/session.json"
+    },
+    {
+      "id": "2026-09-21_0095_lovro",
+      "date": "2026-09-21",
+      "session_id": "0095_lovro",
+      "name": "lovro",
+      "started_at": "2026-09-19T10:37:28.041Z",
+      "ended_at": "2026-09-19T10:40:03.439Z",
+      "stroke_count": 17,
+      "point_count": 1261,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0095_lovro/drawing.gif",
+      "png": "data/2026-09-21/0095_lovro/drawing.png",
+      "session": "data/2026-09-21/0095_lovro/session.json"
+    },
+    {
+      "id": "2026-09-21_0094_patrik",
+      "date": "2026-09-21",
+      "session_id": "0094_patrik",
+      "name": "patrik",
+      "started_at": "2026-09-19T10:35:26.783Z",
+      "ended_at": "2026-09-19T10:37:22.538Z",
+      "stroke_count": 10,
+      "point_count": 755,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0094_patrik/drawing.gif",
+      "png": "data/2026-09-21/0094_patrik/drawing.png",
+      "session": "data/2026-09-21/0094_patrik/session.json"
+    },
+    {
+      "id": "2026-09-21_0093_anja",
+      "date": "2026-09-21",
+      "session_id": "0093_anja",
+      "name": "anja",
+      "started_at": "2026-09-19T10:34:34.562Z",
+      "ended_at": "2026-09-19T10:35:20.175Z",
+      "stroke_count": 4,
+      "point_count": 746,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0093_anja/drawing.gif",
+      "png": "data/2026-09-21/0093_anja/drawing.png",
+      "session": "data/2026-09-21/0093_anja/session.json"
+    },
+    {
+      "id": "2026-09-21_0092_manuel",
+      "date": "2026-09-21",
+      "session_id": "0092_manuel",
+      "name": "manuel",
+      "started_at": "2026-09-19T10:33:07.960Z",
+      "ended_at": "2026-09-19T10:34:30.809Z",
+      "stroke_count": 14,
+      "point_count": 793,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0092_manuel/drawing.gif",
+      "png": "data/2026-09-21/0092_manuel/drawing.png",
+      "session": "data/2026-09-21/0092_manuel/session.json"
+    },
+    {
+      "id": "2026-09-21_0091_izak",
+      "date": "2026-09-21",
+      "session_id": "0091_izak",
+      "name": "izak",
+      "started_at": "2026-09-19T10:31:18.262Z",
+      "ended_at": "2026-09-19T10:32:50.908Z",
+      "stroke_count": 18,
+      "point_count": 1033,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0091_izak/drawing.gif",
+      "png": "data/2026-09-21/0091_izak/drawing.png",
+      "session": "data/2026-09-21/0091_izak/session.json"
+    },
+    {
+      "id": "2026-09-21_0090_brin",
+      "date": "2026-09-21",
+      "session_id": "0090_brin",
+      "name": "brin",
+      "started_at": "2026-09-19T10:30:00.020Z",
+      "ended_at": "2026-09-19T10:31:03.318Z",
+      "stroke_count": 12,
+      "point_count": 1123,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0090_brin/drawing.gif",
+      "png": "data/2026-09-21/0090_brin/drawing.png",
+      "session": "data/2026-09-21/0090_brin/session.json"
+    },
+    {
+      "id": "2026-09-21_0089_ariela",
+      "date": "2026-09-21",
+      "session_id": "0089_ariela",
+      "name": "ariela",
+      "started_at": "2026-09-19T10:28:23.995Z",
+      "ended_at": "2026-09-19T10:29:38.419Z",
+      "stroke_count": 1,
+      "point_count": 1558,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0089_ariela/drawing.gif",
+      "png": "data/2026-09-21/0089_ariela/drawing.png",
+      "session": "data/2026-09-21/0089_ariela/session.json"
+    },
+    {
+      "id": "2026-09-21_0088_nejc",
+      "date": "2026-09-21",
+      "session_id": "0088_nejc",
+      "name": "nejc",
+      "started_at": "2026-09-19T10:22:52.441Z",
+      "ended_at": "2026-09-19T10:25:20.534Z",
+      "stroke_count": 18,
+      "point_count": 733,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0088_nejc/drawing.gif",
+      "png": "data/2026-09-21/0088_nejc/drawing.png",
+      "session": "data/2026-09-21/0088_nejc/session.json"
+    },
+    {
+      "id": "2026-09-21_0087_jakob",
+      "date": "2026-09-21",
+      "session_id": "0087_jakob",
+      "name": "jakob",
+      "started_at": "2026-09-19T10:20:34.211Z",
+      "ended_at": "2026-09-19T10:22:18.383Z",
+      "stroke_count": 12,
+      "point_count": 1015,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0087_jakob/drawing.gif",
+      "png": "data/2026-09-21/0087_jakob/drawing.png",
+      "session": "data/2026-09-21/0087_jakob/session.json"
+    },
+    {
+      "id": "2026-09-21_0086_sandi",
+      "date": "2026-09-21",
+      "session_id": "0086_sandi",
+      "name": "sandi",
+      "started_at": "2026-09-19T10:16:36.485Z",
+      "ended_at": "2026-09-19T10:20:25.556Z",
+      "stroke_count": 14,
+      "point_count": 652,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0086_sandi/drawing.gif",
+      "png": "data/2026-09-21/0086_sandi/drawing.png",
+      "session": "data/2026-09-21/0086_sandi/session.json"
+    },
+    {
+      "id": "2026-09-21_0085_anika",
+      "date": "2026-09-21",
+      "session_id": "0085_anika",
+      "name": "anika",
+      "started_at": "2026-09-19T10:12:20.777Z",
+      "ended_at": "2026-09-19T10:15:00.015Z",
+      "stroke_count": 15,
+      "point_count": 2179,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0085_anika/drawing.gif",
+      "png": "data/2026-09-21/0085_anika/drawing.png",
+      "session": "data/2026-09-21/0085_anika/session.json"
+    },
+    {
+      "id": "2026-09-21_0084_vane",
+      "date": "2026-09-21",
+      "session_id": "0084_vane",
+      "name": "vane",
+      "started_at": "2026-09-19T10:09:40.226Z",
+      "ended_at": "2026-09-19T10:12:13.194Z",
+      "stroke_count": 15,
+      "point_count": 668,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0084_vane/drawing.gif",
+      "png": "data/2026-09-21/0084_vane/drawing.png",
+      "session": "data/2026-09-21/0084_vane/session.json"
+    },
+    {
+      "id": "2026-09-21_0083_rebeka",
+      "date": "2026-09-21",
+      "session_id": "0083_rebeka",
+      "name": "rebeka",
+      "started_at": "2026-09-19T10:06:41.648Z",
+      "ended_at": "2026-09-19T10:07:52.751Z",
+      "stroke_count": 11,
+      "point_count": 714,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0083_rebeka/drawing.gif",
+      "png": "data/2026-09-21/0083_rebeka/drawing.png",
+      "session": "data/2026-09-21/0083_rebeka/session.json"
+    },
+    {
+      "id": "2026-09-21_0082_tja_a",
+      "date": "2026-09-21",
+      "session_id": "0082_tja_a",
+      "name": "tja\u0161a",
+      "started_at": "2026-09-19T10:04:15.769Z",
+      "ended_at": "2026-09-19T10:05:40.413Z",
+      "stroke_count": 12,
+      "point_count": 858,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0082_tja_a/drawing.gif",
+      "png": "data/2026-09-21/0082_tja_a/drawing.png",
+      "session": "data/2026-09-21/0082_tja_a/session.json"
+    },
+    {
+      "id": "2026-09-21_0081_jure",
+      "date": "2026-09-21",
+      "session_id": "0081_jure",
+      "name": "jure",
+      "started_at": "2026-09-19T10:00:46.553Z",
+      "ended_at": "2026-09-19T10:03:17.585Z",
+      "stroke_count": 14,
+      "point_count": 2009,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0081_jure/drawing.gif",
+      "png": "data/2026-09-21/0081_jure/drawing.png",
+      "session": "data/2026-09-21/0081_jure/session.json"
+    },
+    {
+      "id": "2026-09-21_0080_dejan",
+      "date": "2026-09-21",
+      "session_id": "0080_dejan",
+      "name": "dejan",
+      "started_at": "2026-09-19T09:57:21.499Z",
+      "ended_at": "2026-09-19T09:58:29.938Z",
+      "stroke_count": 3,
+      "point_count": 223,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0080_dejan/drawing.gif",
+      "png": "data/2026-09-21/0080_dejan/drawing.png",
+      "session": "data/2026-09-21/0080_dejan/session.json"
+    },
+    {
+      "id": "2026-09-21_0079_maskota",
+      "date": "2026-09-21",
+      "session_id": "0079_maskota",
+      "name": "maskota",
+      "started_at": "2026-09-19T09:55:26.439Z",
+      "ended_at": "2026-09-19T09:56:42.157Z",
+      "stroke_count": 15,
+      "point_count": 976,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0079_maskota/drawing.gif",
+      "png": "data/2026-09-21/0079_maskota/drawing.png",
+      "session": "data/2026-09-21/0079_maskota/session.json"
+    },
+    {
+      "id": "2026-09-21_0078_aleksander",
+      "date": "2026-09-21",
+      "session_id": "0078_aleksander",
+      "name": "aleksander",
+      "started_at": "2026-09-19T09:52:20.742Z",
+      "ended_at": "2026-09-19T09:54:44.042Z",
+      "stroke_count": 24,
+      "point_count": 1229,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0078_aleksander/drawing.gif",
+      "png": "data/2026-09-21/0078_aleksander/drawing.png",
+      "session": "data/2026-09-21/0078_aleksander/session.json"
+    },
+    {
+      "id": "2026-09-21_0077_edin",
+      "date": "2026-09-21",
+      "session_id": "0077_edin",
+      "name": "edin",
+      "started_at": "2026-09-19T09:48:51.648Z",
+      "ended_at": "2026-09-19T09:51:42.408Z",
+      "stroke_count": 17,
+      "point_count": 2675,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0077_edin/drawing.gif",
+      "png": "data/2026-09-21/0077_edin/drawing.png",
+      "session": "data/2026-09-21/0077_edin/session.json"
+    },
+    {
+      "id": "2026-09-21_0076_amna",
+      "date": "2026-09-21",
+      "session_id": "0076_amna",
+      "name": "amna",
+      "started_at": "2026-09-19T09:47:45.317Z",
+      "ended_at": "2026-09-19T09:48:40.575Z",
+      "stroke_count": 9,
+      "point_count": 744,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0076_amna/drawing.gif",
+      "png": "data/2026-09-21/0076_amna/drawing.png",
+      "session": "data/2026-09-21/0076_amna/session.json"
+    },
+    {
+      "id": "2026-09-21_0075_klara",
+      "date": "2026-09-21",
+      "session_id": "0075_klara",
+      "name": "klara",
+      "started_at": "2026-09-19T09:45:00.202Z",
+      "ended_at": "2026-09-19T09:47:26.068Z",
+      "stroke_count": 5,
+      "point_count": 2814,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0075_klara/drawing.gif",
+      "png": "data/2026-09-21/0075_klara/drawing.png",
+      "session": "data/2026-09-21/0075_klara/session.json"
+    },
+    {
+      "id": "2026-09-21_0074_adian",
+      "date": "2026-09-21",
+      "session_id": "0074_adian",
+      "name": "adian",
+      "started_at": "2026-09-19T09:43:17.366Z",
+      "ended_at": "2026-09-19T09:44:32.861Z",
+      "stroke_count": 7,
+      "point_count": 1487,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0074_adian/drawing.gif",
+      "png": "data/2026-09-21/0074_adian/drawing.png",
+      "session": "data/2026-09-21/0074_adian/session.json"
+    },
+    {
+      "id": "2026-09-21_0073_runja",
+      "date": "2026-09-21",
+      "session_id": "0073_runja",
+      "name": "runja",
+      "started_at": "2026-09-19T09:41:17.771Z",
+      "ended_at": "2026-09-19T09:43:03.854Z",
+      "stroke_count": 4,
+      "point_count": 1821,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0073_runja/drawing.gif",
+      "png": "data/2026-09-21/0073_runja/drawing.png",
+      "session": "data/2026-09-21/0073_runja/session.json"
+    },
+    {
+      "id": "2026-09-21_0072_jani",
+      "date": "2026-09-21",
+      "session_id": "0072_jani",
+      "name": "jani",
+      "started_at": "2026-09-19T09:39:42.482Z",
+      "ended_at": "2026-09-19T09:40:53.797Z",
+      "stroke_count": 7,
+      "point_count": 553,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0072_jani/drawing.gif",
+      "png": "data/2026-09-21/0072_jani/drawing.png",
+      "session": "data/2026-09-21/0072_jani/session.json"
+    },
+    {
+      "id": "2026-09-21_0071_an",
+      "date": "2026-09-21",
+      "session_id": "0071_an",
+      "name": "\u017ean",
+      "started_at": "2026-09-19T09:37:03.331Z",
+      "ended_at": "2026-09-19T09:39:37.249Z",
+      "stroke_count": 14,
+      "point_count": 1993,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0071_an/drawing.gif",
+      "png": "data/2026-09-21/0071_an/drawing.png",
+      "session": "data/2026-09-21/0071_an/session.json"
+    },
+    {
+      "id": "2026-09-21_0070_aleks",
+      "date": "2026-09-21",
+      "session_id": "0070_aleks",
+      "name": "aleks",
+      "started_at": "2026-09-19T09:36:02.124Z",
+      "ended_at": "2026-09-19T09:36:55.088Z",
+      "stroke_count": 1,
+      "point_count": 756,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0070_aleks/drawing.gif",
+      "png": "data/2026-09-21/0070_aleks/drawing.png",
+      "session": "data/2026-09-21/0070_aleks/session.json"
+    },
+    {
+      "id": "2026-09-21_0069_teo",
+      "date": "2026-09-21",
+      "session_id": "0069_teo",
+      "name": "teo",
+      "started_at": "2026-09-19T09:35:14.568Z",
+      "ended_at": "2026-09-19T09:35:55.668Z",
+      "stroke_count": 2,
+      "point_count": 639,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0069_teo/drawing.gif",
+      "png": "data/2026-09-21/0069_teo/drawing.png",
+      "session": "data/2026-09-21/0069_teo/session.json"
+    },
+    {
+      "id": "2026-09-21_0068_sonja",
+      "date": "2026-09-21",
+      "session_id": "0068_sonja",
+      "name": "sonja",
+      "started_at": "2026-09-19T09:33:26.663Z",
+      "ended_at": "2026-09-19T09:34:38.328Z",
+      "stroke_count": 4,
+      "point_count": 401,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0068_sonja/drawing.gif",
+      "png": "data/2026-09-21/0068_sonja/drawing.png",
+      "session": "data/2026-09-21/0068_sonja/session.json"
+    },
+    {
+      "id": "2026-09-21_0067_tilen",
+      "date": "2026-09-21",
+      "session_id": "0067_tilen",
+      "name": "tilen",
+      "started_at": "2026-09-19T09:30:26.342Z",
+      "ended_at": "2026-09-19T09:32:25.284Z",
+      "stroke_count": 10,
+      "point_count": 1528,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0067_tilen/drawing.gif",
+      "png": "data/2026-09-21/0067_tilen/drawing.png",
+      "session": "data/2026-09-21/0067_tilen/session.json"
+    },
+    {
+      "id": "2026-09-21_0066_zala",
+      "date": "2026-09-21",
+      "session_id": "0066_zala",
+      "name": "zala",
+      "started_at": "2026-09-19T09:28:51.377Z",
+      "ended_at": "2026-09-19T09:29:49.692Z",
+      "stroke_count": 6,
+      "point_count": 950,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0066_zala/drawing.gif",
+      "png": "data/2026-09-21/0066_zala/drawing.png",
+      "session": "data/2026-09-21/0066_zala/session.json"
+    },
+    {
+      "id": "2026-09-21_0065_ljubica",
+      "date": "2026-09-21",
+      "session_id": "0065_ljubica",
+      "name": "ljubica",
+      "started_at": "2026-09-19T09:27:47.368Z",
+      "ended_at": "2026-09-19T09:28:21.951Z",
+      "stroke_count": 5,
+      "point_count": 480,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0065_ljubica/drawing.gif",
+      "png": "data/2026-09-21/0065_ljubica/drawing.png",
+      "session": "data/2026-09-21/0065_ljubica/session.json"
+    },
+    {
+      "id": "2026-09-21_0064_radija",
+      "date": "2026-09-21",
+      "session_id": "0064_radija",
+      "name": "radija",
+      "started_at": "2026-09-19T09:25:28.300Z",
+      "ended_at": "2026-09-19T09:27:21.797Z",
+      "stroke_count": 15,
+      "point_count": 1167,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0064_radija/drawing.gif",
+      "png": "data/2026-09-21/0064_radija/drawing.png",
+      "session": "data/2026-09-21/0064_radija/session.json"
+    },
+    {
+      "id": "2026-09-21_0063_bal_a",
+      "date": "2026-09-21",
+      "session_id": "0063_bal_a",
+      "name": "bal\u0161a",
+      "started_at": "2026-09-19T09:21:40.852Z",
+      "ended_at": "2026-09-19T09:25:05.839Z",
+      "stroke_count": 26,
+      "point_count": 1958,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0063_bal_a/drawing.gif",
+      "png": "data/2026-09-21/0063_bal_a/drawing.png",
+      "session": "data/2026-09-21/0063_bal_a/session.json"
+    },
+    {
+      "id": "2026-09-21_0062_maks",
+      "date": "2026-09-21",
+      "session_id": "0062_maks",
+      "name": "maks",
+      "started_at": "2026-09-19T09:18:08.998Z",
+      "ended_at": "2026-09-19T09:21:06.338Z",
+      "stroke_count": 22,
+      "point_count": 2073,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0062_maks/drawing.gif",
+      "png": "data/2026-09-21/0062_maks/drawing.png",
+      "session": "data/2026-09-21/0062_maks/session.json"
+    },
+    {
+      "id": "2026-09-21_0061_val",
+      "date": "2026-09-21",
+      "session_id": "0061_val",
+      "name": "val",
+      "started_at": "2026-09-19T09:14:45.208Z",
+      "ended_at": "2026-09-19T09:17:54.604Z",
+      "stroke_count": 27,
+      "point_count": 3543,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0061_val/drawing.gif",
+      "png": "data/2026-09-21/0061_val/drawing.png",
+      "session": "data/2026-09-21/0061_val/session.json"
+    },
+    {
+      "id": "2026-09-21_0060_luna",
+      "date": "2026-09-21",
+      "session_id": "0060_luna",
+      "name": "luna",
+      "started_at": "2026-09-19T09:13:04.956Z",
+      "ended_at": "2026-09-19T09:14:24.009Z",
+      "stroke_count": 5,
+      "point_count": 1213,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0060_luna/drawing.gif",
+      "png": "data/2026-09-21/0060_luna/drawing.png",
+      "session": "data/2026-09-21/0060_luna/session.json"
+    },
+    {
+      "id": "2026-09-21_0059_maj",
+      "date": "2026-09-21",
+      "session_id": "0059_maj",
+      "name": "maj",
+      "started_at": "2026-09-19T09:11:03.669Z",
+      "ended_at": "2026-09-19T09:12:53.208Z",
+      "stroke_count": 4,
+      "point_count": 1477,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0059_maj/drawing.gif",
+      "png": "data/2026-09-21/0059_maj/drawing.png",
+      "session": "data/2026-09-21/0059_maj/session.json"
+    },
+    {
+      "id": "2026-09-21_0058_miha6",
+      "date": "2026-09-21",
+      "session_id": "0058_miha6",
+      "name": "miha6",
+      "started_at": "2026-09-19T09:09:15.078Z",
+      "ended_at": "2026-09-19T09:10:40.470Z",
+      "stroke_count": 3,
+      "point_count": 2007,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0058_miha6/drawing.gif",
+      "png": "data/2026-09-21/0058_miha6/drawing.png",
+      "session": "data/2026-09-21/0058_miha6/session.json"
+    },
+    {
+      "id": "2026-09-21_0057_olivija",
+      "date": "2026-09-21",
+      "session_id": "0057_olivija",
+      "name": "olivija",
+      "started_at": "2026-09-19T09:07:26.907Z",
+      "ended_at": "2026-09-19T09:08:42.590Z",
+      "stroke_count": 9,
+      "point_count": 930,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0057_olivija/drawing.gif",
+      "png": "data/2026-09-21/0057_olivija/drawing.png",
+      "session": "data/2026-09-21/0057_olivija/session.json"
+    },
+    {
+      "id": "2026-09-21_0056_fara",
+      "date": "2026-09-21",
+      "session_id": "0056_fara",
+      "name": "fara",
+      "started_at": "2026-09-19T09:05:48.529Z",
+      "ended_at": "2026-09-19T09:07:16.080Z",
+      "stroke_count": 12,
+      "point_count": 1141,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0056_fara/drawing.gif",
+      "png": "data/2026-09-21/0056_fara/drawing.png",
+      "session": "data/2026-09-21/0056_fara/session.json"
+    },
+    {
+      "id": "2026-09-21_0055_miha",
+      "date": "2026-09-21",
+      "session_id": "0055_miha",
+      "name": "miha",
+      "started_at": "2026-09-19T09:02:29.816Z",
+      "ended_at": "2026-09-19T09:05:39.659Z",
+      "stroke_count": 32,
+      "point_count": 2152,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0055_miha/drawing.gif",
+      "png": "data/2026-09-21/0055_miha/drawing.png",
+      "session": "data/2026-09-21/0055_miha/session.json"
+    },
+    {
+      "id": "2026-09-21_0054_oskar",
+      "date": "2026-09-21",
+      "session_id": "0054_oskar",
+      "name": "oskar",
+      "started_at": "2026-09-19T09:00:57.602Z",
+      "ended_at": "2026-09-19T09:02:21.044Z",
+      "stroke_count": 14,
+      "point_count": 1112,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0054_oskar/drawing.gif",
+      "png": "data/2026-09-21/0054_oskar/drawing.png",
+      "session": "data/2026-09-21/0054_oskar/session.json"
+    },
+    {
+      "id": "2026-09-21_0053_hari",
+      "date": "2026-09-21",
+      "session_id": "0053_hari",
+      "name": "hari",
+      "started_at": "2026-09-19T08:59:55.066Z",
+      "ended_at": "2026-09-19T09:00:37.653Z",
+      "stroke_count": 3,
+      "point_count": 190,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0053_hari/drawing.gif",
+      "png": "data/2026-09-21/0053_hari/drawing.png",
+      "session": "data/2026-09-21/0053_hari/session.json"
+    },
+    {
+      "id": "2026-09-21_0052_polona",
+      "date": "2026-09-21",
+      "session_id": "0052_polona",
+      "name": "polona",
+      "started_at": "2026-09-19T08:58:34.157Z",
+      "ended_at": "2026-09-19T08:59:11.676Z",
+      "stroke_count": 5,
+      "point_count": 239,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0052_polona/drawing.gif",
+      "png": "data/2026-09-21/0052_polona/drawing.png",
+      "session": "data/2026-09-21/0052_polona/session.json"
+    },
+    {
+      "id": "2026-09-21_0051_lan",
+      "date": "2026-09-21",
+      "session_id": "0051_lan",
+      "name": "lan",
+      "started_at": "2026-09-19T08:55:11.104Z",
+      "ended_at": "2026-09-19T08:57:50.527Z",
+      "stroke_count": 21,
+      "point_count": 1812,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0051_lan/drawing.gif",
+      "png": "data/2026-09-21/0051_lan/drawing.png",
+      "session": "data/2026-09-21/0051_lan/session.json"
+    },
+    {
+      "id": "2026-09-21_0050_alan",
+      "date": "2026-09-21",
+      "session_id": "0050_alan",
+      "name": "alan",
+      "started_at": "2026-09-19T08:52:23.444Z",
+      "ended_at": "2026-09-19T08:54:43.495Z",
+      "stroke_count": 28,
+      "point_count": 1121,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0050_alan/drawing.gif",
+      "png": "data/2026-09-21/0050_alan/drawing.png",
+      "session": "data/2026-09-21/0050_alan/session.json"
+    },
+    {
+      "id": "2026-09-21_0049_lun",
+      "date": "2026-09-21",
+      "session_id": "0049_lun",
+      "name": "lun",
+      "started_at": "2026-09-19T08:50:15.646Z",
+      "ended_at": "2026-09-19T08:51:34.134Z",
+      "stroke_count": 9,
+      "point_count": 1691,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0049_lun/drawing.gif",
+      "png": "data/2026-09-21/0049_lun/drawing.png",
+      "session": "data/2026-09-21/0049_lun/session.json"
+    },
+    {
+      "id": "2026-09-21_0048_edi",
+      "date": "2026-09-21",
+      "session_id": "0048_edi",
+      "name": "edi",
+      "started_at": "2026-09-19T08:47:15.913Z",
+      "ended_at": "2026-09-19T08:49:35.927Z",
+      "stroke_count": 17,
+      "point_count": 669,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0048_edi/drawing.gif",
+      "png": "data/2026-09-21/0048_edi/drawing.png",
+      "session": "data/2026-09-21/0048_edi/session.json"
+    },
+    {
+      "id": "2026-09-21_0047_val",
+      "date": "2026-09-21",
+      "session_id": "0047_val",
+      "name": "val",
+      "started_at": "2026-09-19T08:45:45.479Z",
+      "ended_at": "2026-09-19T08:46:32.039Z",
+      "stroke_count": 6,
+      "point_count": 396,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0047_val/drawing.gif",
+      "png": "data/2026-09-21/0047_val/drawing.png",
+      "session": "data/2026-09-21/0047_val/session.json"
+    },
+    {
+      "id": "2026-09-21_0046_ema",
+      "date": "2026-09-21",
+      "session_id": "0046_ema",
+      "name": "ema",
+      "started_at": "2026-09-19T08:44:47.066Z",
+      "ended_at": "2026-09-19T08:45:39.247Z",
+      "stroke_count": 8,
+      "point_count": 441,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0046_ema/drawing.gif",
+      "png": "data/2026-09-21/0046_ema/drawing.png",
+      "session": "data/2026-09-21/0046_ema/session.json"
+    },
+    {
+      "id": "2026-09-21_0045_maj",
+      "date": "2026-09-21",
+      "session_id": "0045_maj",
+      "name": "maj",
+      "started_at": "2026-09-19T08:43:50.615Z",
+      "ended_at": "2026-09-19T08:44:38.276Z",
+      "stroke_count": 4,
+      "point_count": 437,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0045_maj/drawing.gif",
+      "png": "data/2026-09-21/0045_maj/drawing.png",
+      "session": "data/2026-09-21/0045_maj/session.json"
+    },
+    {
+      "id": "2026-09-21_0044_karin",
+      "date": "2026-09-21",
+      "session_id": "0044_karin",
+      "name": "karin",
+      "started_at": "2026-09-19T08:42:25.289Z",
+      "ended_at": "2026-09-19T08:43:25.042Z",
+      "stroke_count": 12,
+      "point_count": 403,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0044_karin/drawing.gif",
+      "png": "data/2026-09-21/0044_karin/drawing.png",
+      "session": "data/2026-09-21/0044_karin/session.json"
+    },
+    {
+      "id": "2026-09-21_0043_larisa",
+      "date": "2026-09-21",
+      "session_id": "0043_larisa",
+      "name": "larisa",
+      "started_at": "2026-09-19T08:41:17.123Z",
+      "ended_at": "2026-09-19T08:42:09.633Z",
+      "stroke_count": 13,
+      "point_count": 591,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0043_larisa/drawing.gif",
+      "png": "data/2026-09-21/0043_larisa/drawing.png",
+      "session": "data/2026-09-21/0043_larisa/session.json"
+    },
+    {
+      "id": "2026-09-21_0042_leo",
+      "date": "2026-09-21",
+      "session_id": "0042_leo",
+      "name": "leo",
+      "started_at": "2026-09-19T08:39:52.835Z",
+      "ended_at": "2026-09-19T08:40:33.947Z",
+      "stroke_count": 7,
+      "point_count": 325,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0042_leo/drawing.gif",
+      "png": "data/2026-09-21/0042_leo/drawing.png",
+      "session": "data/2026-09-21/0042_leo/session.json"
+    },
+    {
+      "id": "2026-09-21_0041_an_e",
+      "date": "2026-09-21",
+      "session_id": "0041_an_e",
+      "name": "an\u017ee",
+      "started_at": "2026-09-19T08:38:42.122Z",
+      "ended_at": "2026-09-19T08:39:27.682Z",
+      "stroke_count": 7,
+      "point_count": 393,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0041_an_e/drawing.gif",
+      "png": "data/2026-09-21/0041_an_e/drawing.png",
+      "session": "data/2026-09-21/0041_an_e/session.json"
+    },
+    {
+      "id": "2026-09-21_0040_loris",
+      "date": "2026-09-21",
+      "session_id": "0040_loris",
+      "name": "loris",
+      "started_at": "2026-09-19T08:37:24.290Z",
+      "ended_at": "2026-09-19T08:38:25.849Z",
+      "stroke_count": 7,
+      "point_count": 425,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0040_loris/drawing.gif",
+      "png": "data/2026-09-21/0040_loris/drawing.png",
+      "session": "data/2026-09-21/0040_loris/session.json"
+    },
+    {
+      "id": "2026-09-21_0039_rok",
+      "date": "2026-09-21",
+      "session_id": "0039_rok",
+      "name": "rok",
+      "started_at": "2026-09-19T08:36:25.958Z",
+      "ended_at": "2026-09-19T08:37:12.041Z",
+      "stroke_count": 6,
+      "point_count": 327,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0039_rok/drawing.gif",
+      "png": "data/2026-09-21/0039_rok/drawing.png",
+      "session": "data/2026-09-21/0039_rok/session.json"
+    },
+    {
+      "id": "2026-09-21_0038_anej",
+      "date": "2026-09-21",
+      "session_id": "0038_anej",
+      "name": "anej",
+      "started_at": "2026-09-19T08:35:22.409Z",
+      "ended_at": "2026-09-19T08:36:10.011Z",
+      "stroke_count": 9,
+      "point_count": 392,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0038_anej/drawing.gif",
+      "png": "data/2026-09-21/0038_anej/drawing.png",
+      "session": "data/2026-09-21/0038_anej/session.json"
+    },
+    {
+      "id": "2026-09-21_0037_elina",
+      "date": "2026-09-21",
+      "session_id": "0037_elina",
+      "name": "elina",
+      "started_at": "2026-09-19T08:33:51.105Z",
+      "ended_at": "2026-09-19T08:34:50.462Z",
+      "stroke_count": 11,
+      "point_count": 393,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0037_elina/drawing.gif",
+      "png": "data/2026-09-21/0037_elina/drawing.png",
+      "session": "data/2026-09-21/0037_elina/session.json"
+    },
+    {
+      "id": "2026-09-21_0036_brigita",
+      "date": "2026-09-21",
+      "session_id": "0036_brigita",
+      "name": "brigita",
+      "started_at": "2026-09-19T08:32:47.460Z",
+      "ended_at": "2026-09-19T08:33:27.475Z",
+      "stroke_count": 11,
+      "point_count": 684,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0036_brigita/drawing.gif",
+      "png": "data/2026-09-21/0036_brigita/drawing.png",
+      "session": "data/2026-09-21/0036_brigita/session.json"
+    },
+    {
+      "id": "2026-09-21_0035_patrik",
+      "date": "2026-09-21",
+      "session_id": "0035_patrik",
+      "name": "patrik",
+      "started_at": "2026-09-19T08:31:48.350Z",
+      "ended_at": "2026-09-19T08:32:23.653Z",
+      "stroke_count": 2,
+      "point_count": 330,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0035_patrik/drawing.gif",
+      "png": "data/2026-09-21/0035_patrik/drawing.png",
+      "session": "data/2026-09-21/0035_patrik/session.json"
+    },
+    {
+      "id": "2026-09-21_0034_miha",
+      "date": "2026-09-21",
+      "session_id": "0034_miha",
+      "name": "miha",
+      "started_at": "2026-09-19T08:30:39.485Z",
+      "ended_at": "2026-09-19T08:31:32.032Z",
+      "stroke_count": 12,
+      "point_count": 547,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0034_miha/drawing.gif",
+      "png": "data/2026-09-21/0034_miha/drawing.png",
+      "session": "data/2026-09-21/0034_miha/session.json"
+    },
+    {
+      "id": "2026-09-21_0033_sara",
+      "date": "2026-09-21",
+      "session_id": "0033_sara",
+      "name": "sara",
+      "started_at": "2026-09-19T08:29:46.272Z",
+      "ended_at": "2026-09-19T08:30:28.669Z",
+      "stroke_count": 4,
+      "point_count": 352,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0033_sara/drawing.gif",
+      "png": "data/2026-09-21/0033_sara/drawing.png",
+      "session": "data/2026-09-21/0033_sara/session.json"
+    },
+    {
+      "id": "2026-09-21_0032_meta",
+      "date": "2026-09-21",
+      "session_id": "0032_meta",
+      "name": "meta",
+      "started_at": "2026-09-19T08:29:14.288Z",
+      "ended_at": "2026-09-19T08:29:39.788Z",
+      "stroke_count": 2,
+      "point_count": 433,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0032_meta/drawing.gif",
+      "png": "data/2026-09-21/0032_meta/drawing.png",
+      "session": "data/2026-09-21/0032_meta/session.json"
+    },
+    {
+      "id": "2026-09-21_0031_ne_a",
+      "date": "2026-09-21",
+      "session_id": "0031_ne_a",
+      "name": "ne\u017ea",
+      "started_at": "2026-09-19T08:28:39.168Z",
+      "ended_at": "2026-09-19T08:29:07.654Z",
+      "stroke_count": 4,
+      "point_count": 326,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0031_ne_a/drawing.gif",
+      "png": "data/2026-09-21/0031_ne_a/drawing.png",
+      "session": "data/2026-09-21/0031_ne_a/session.json"
+    },
+    {
+      "id": "2026-09-21_0030_ela",
+      "date": "2026-09-21",
+      "session_id": "0030_ela",
+      "name": "ela",
+      "started_at": "2026-09-19T08:27:47.837Z",
+      "ended_at": "2026-09-19T08:28:17.754Z",
+      "stroke_count": 2,
+      "point_count": 413,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0030_ela/drawing.gif",
+      "png": "data/2026-09-21/0030_ela/drawing.png",
+      "session": "data/2026-09-21/0030_ela/session.json"
+    },
+    {
+      "id": "2026-09-21_0029_domi",
+      "date": "2026-09-21",
+      "session_id": "0029_domi",
+      "name": "domi",
+      "started_at": "2026-09-19T08:26:13.273Z",
+      "ended_at": "2026-09-19T08:27:26.776Z",
+      "stroke_count": 12,
+      "point_count": 1112,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0029_domi/drawing.gif",
+      "png": "data/2026-09-21/0029_domi/drawing.png",
+      "session": "data/2026-09-21/0029_domi/session.json"
+    },
+    {
+      "id": "2026-09-21_0028_naja",
+      "date": "2026-09-21",
+      "session_id": "0028_naja",
+      "name": "naja",
+      "started_at": "2026-09-19T08:24:56.170Z",
+      "ended_at": "2026-09-19T08:25:39.775Z",
+      "stroke_count": 7,
+      "point_count": 496,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0028_naja/drawing.gif",
+      "png": "data/2026-09-21/0028_naja/drawing.png",
+      "session": "data/2026-09-21/0028_naja/session.json"
+    },
+    {
+      "id": "2026-09-21_0027_nevora",
+      "date": "2026-09-21",
+      "session_id": "0027_nevora",
+      "name": "nevora",
+      "started_at": "2026-09-19T08:23:56.424Z",
+      "ended_at": "2026-09-19T08:24:49.883Z",
+      "stroke_count": 11,
+      "point_count": 516,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0027_nevora/drawing.gif",
+      "png": "data/2026-09-21/0027_nevora/drawing.png",
+      "session": "data/2026-09-21/0027_nevora/session.json"
+    },
+    {
+      "id": "2026-09-21_0026_mirjam",
+      "date": "2026-09-21",
+      "session_id": "0026_mirjam",
+      "name": "mirjam",
+      "started_at": "2026-09-19T08:22:28.282Z",
+      "ended_at": "2026-09-19T08:23:18.852Z",
+      "stroke_count": 6,
+      "point_count": 655,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0026_mirjam/drawing.gif",
+      "png": "data/2026-09-21/0026_mirjam/drawing.png",
+      "session": "data/2026-09-21/0026_mirjam/session.json"
+    },
+    {
+      "id": "2026-09-21_0025_maja_tin",
+      "date": "2026-09-21",
+      "session_id": "0025_maja_tin",
+      "name": "maja-tin",
+      "started_at": "2026-09-19T08:18:38.516Z",
+      "ended_at": "2026-09-19T08:19:56.481Z",
+      "stroke_count": 10,
+      "point_count": 745,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0025_maja_tin/drawing.gif",
+      "png": "data/2026-09-21/0025_maja_tin/drawing.png",
+      "session": "data/2026-09-21/0025_maja_tin/session.json"
+    },
+    {
+      "id": "2026-09-21_0024_toma",
+      "date": "2026-09-21",
+      "session_id": "0024_toma",
+      "name": "toma\u017e",
+      "started_at": "2026-09-19T08:17:26.594Z",
+      "ended_at": "2026-09-19T08:17:58.145Z",
+      "stroke_count": 6,
+      "point_count": 313,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0024_toma/drawing.gif",
+      "png": "data/2026-09-21/0024_toma/drawing.png",
+      "session": "data/2026-09-21/0024_toma/session.json"
+    },
+    {
+      "id": "2026-09-21_0023_filip",
+      "date": "2026-09-21",
+      "session_id": "0023_filip",
+      "name": "filip",
+      "started_at": "2026-09-19T08:16:31.213Z",
+      "ended_at": "2026-09-19T08:17:19.823Z",
+      "stroke_count": 15,
+      "point_count": 450,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0023_filip/drawing.gif",
+      "png": "data/2026-09-21/0023_filip/drawing.png",
+      "session": "data/2026-09-21/0023_filip/session.json"
+    },
+    {
+      "id": "2026-09-21_0022_damjan",
+      "date": "2026-09-21",
+      "session_id": "0022_damjan",
+      "name": "damjan",
+      "started_at": "2026-09-19T08:15:14.117Z",
+      "ended_at": "2026-09-19T08:16:13.228Z",
+      "stroke_count": 17,
+      "point_count": 992,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0022_damjan/drawing.gif",
+      "png": "data/2026-09-21/0022_damjan/drawing.png",
+      "session": "data/2026-09-21/0022_damjan/session.json"
+    },
+    {
+      "id": "2026-09-21_0021_ruben",
+      "date": "2026-09-21",
+      "session_id": "0021_ruben",
+      "name": "ruben",
+      "started_at": "2026-09-19T08:11:16.352Z",
+      "ended_at": "2026-09-19T08:14:56.086Z",
+      "stroke_count": 15,
+      "point_count": 4393,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0021_ruben/drawing.gif",
+      "png": "data/2026-09-21/0021_ruben/drawing.png",
+      "session": "data/2026-09-21/0021_ruben/session.json"
+    },
+    {
+      "id": "2026-09-21_0020_iva",
+      "date": "2026-09-21",
+      "session_id": "0020_iva",
+      "name": "iva",
+      "started_at": "2026-09-19T08:10:24.289Z",
+      "ended_at": "2026-09-19T08:11:04.853Z",
+      "stroke_count": 3,
+      "point_count": 337,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0020_iva/drawing.gif",
+      "png": "data/2026-09-21/0020_iva/drawing.png",
+      "session": "data/2026-09-21/0020_iva/session.json"
+    },
+    {
+      "id": "2026-09-21_0019_primo",
+      "date": "2026-09-21",
+      "session_id": "0019_primo",
+      "name": "primo\u017e",
+      "started_at": "2026-09-19T08:06:34.417Z",
+      "ended_at": "2026-09-19T08:07:29.738Z",
+      "stroke_count": 4,
+      "point_count": 698,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0019_primo/drawing.gif",
+      "png": "data/2026-09-21/0019_primo/drawing.png",
+      "session": "data/2026-09-21/0019_primo/session.json"
+    },
+    {
+      "id": "2026-09-21_0018_bla",
+      "date": "2026-09-21",
+      "session_id": "0018_bla",
+      "name": "bla\u017e",
+      "started_at": "2026-09-19T08:03:51.921Z",
+      "ended_at": "2026-09-19T08:06:19.443Z",
+      "stroke_count": 21,
+      "point_count": 1323,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0018_bla/drawing.gif",
+      "png": "data/2026-09-21/0018_bla/drawing.png",
+      "session": "data/2026-09-21/0018_bla/session.json"
+    },
+    {
+      "id": "2026-09-21_0017_gasper",
+      "date": "2026-09-21",
+      "session_id": "0017_gasper",
+      "name": "gasper",
+      "started_at": "2026-09-19T08:01:43.902Z",
+      "ended_at": "2026-09-19T08:03:20.377Z",
+      "stroke_count": 7,
+      "point_count": 496,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0017_gasper/drawing.gif",
+      "png": "data/2026-09-21/0017_gasper/drawing.png",
+      "session": "data/2026-09-21/0017_gasper/session.json"
+    },
+    {
+      "id": "2026-09-21_0016_hana",
+      "date": "2026-09-21",
+      "session_id": "0016_hana",
+      "name": "hana",
+      "started_at": "2026-09-19T07:59:37.131Z",
+      "ended_at": "2026-09-19T08:00:30.110Z",
+      "stroke_count": 3,
+      "point_count": 1164,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0016_hana/drawing.gif",
+      "png": "data/2026-09-21/0016_hana/drawing.png",
+      "session": "data/2026-09-21/0016_hana/session.json"
+    },
+    {
+      "id": "2026-09-21_0015_eva",
+      "date": "2026-09-21",
+      "session_id": "0015_eva",
+      "name": "eva",
+      "started_at": "2026-09-19T07:57:15.460Z",
+      "ended_at": "2026-09-19T07:58:24.249Z",
+      "stroke_count": 20,
+      "point_count": 1091,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0015_eva/drawing.gif",
+      "png": "data/2026-09-21/0015_eva/drawing.png",
+      "session": "data/2026-09-21/0015_eva/session.json"
+    },
+    {
+      "id": "2026-09-21_0014_roman",
+      "date": "2026-09-21",
+      "session_id": "0014_roman",
+      "name": "roman",
+      "started_at": "2026-09-19T07:55:18.610Z",
+      "ended_at": "2026-09-19T07:57:00.074Z",
+      "stroke_count": 17,
+      "point_count": 839,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0014_roman/drawing.gif",
+      "png": "data/2026-09-21/0014_roman/drawing.png",
+      "session": "data/2026-09-21/0014_roman/session.json"
+    },
+    {
+      "id": "2026-09-21_0013_matic",
+      "date": "2026-09-21",
+      "session_id": "0013_matic",
+      "name": "matic",
+      "started_at": "2026-09-19T07:51:44.854Z",
+      "ended_at": "2026-09-19T07:54:15.153Z",
+      "stroke_count": 19,
+      "point_count": 1307,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0013_matic/drawing.gif",
+      "png": "data/2026-09-21/0013_matic/drawing.png",
+      "session": "data/2026-09-21/0013_matic/session.json"
+    },
+    {
+      "id": "2026-09-21_0012_anastazija",
+      "date": "2026-09-21",
+      "session_id": "0012_anastazija",
+      "name": "anastazija",
+      "started_at": "2026-09-19T07:46:05.522Z",
+      "ended_at": "2026-09-19T07:49:20.707Z",
+      "stroke_count": 21,
+      "point_count": 1816,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0012_anastazija/drawing.gif",
+      "png": "data/2026-09-21/0012_anastazija/drawing.png",
+      "session": "data/2026-09-21/0012_anastazija/session.json"
+    },
+    {
+      "id": "2026-09-21_0011_damjan",
+      "date": "2026-09-21",
+      "session_id": "0011_damjan",
+      "name": "damjan",
+      "started_at": "2026-09-19T07:44:01.892Z",
+      "ended_at": "2026-09-19T07:45:28.257Z",
+      "stroke_count": 4,
+      "point_count": 503,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0011_damjan/drawing.gif",
+      "png": "data/2026-09-21/0011_damjan/drawing.png",
+      "session": "data/2026-09-21/0011_damjan/session.json"
+    },
+    {
+      "id": "2026-09-21_0010_timotej",
+      "date": "2026-09-21",
+      "session_id": "0010_timotej",
+      "name": "timotej",
+      "started_at": "2026-09-19T07:38:23.138Z",
+      "ended_at": "2026-09-19T07:43:52.534Z",
+      "stroke_count": 20,
+      "point_count": 1957,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0010_timotej/drawing.gif",
+      "png": "data/2026-09-21/0010_timotej/drawing.png",
+      "session": "data/2026-09-21/0010_timotej/session.json"
+    },
+    {
+      "id": "2026-09-21_0009_kevin",
+      "date": "2026-09-21",
+      "session_id": "0009_kevin",
+      "name": "kevin",
+      "started_at": "2026-09-19T07:32:30.898Z",
+      "ended_at": "2026-09-19T07:33:49.159Z",
+      "stroke_count": 10,
+      "point_count": 597,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0009_kevin/drawing.gif",
+      "png": "data/2026-09-21/0009_kevin/drawing.png",
+      "session": "data/2026-09-21/0009_kevin/session.json"
+    },
+    {
+      "id": "2026-09-21_0008_neja",
+      "date": "2026-09-21",
+      "session_id": "0008_neja",
+      "name": "neja",
+      "started_at": "2026-09-19T07:29:04.885Z",
+      "ended_at": "2026-09-19T07:31:02.056Z",
+      "stroke_count": 7,
+      "point_count": 302,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0008_neja/drawing.gif",
+      "png": "data/2026-09-21/0008_neja/drawing.png",
+      "session": "data/2026-09-21/0008_neja/session.json"
+    },
+    {
+      "id": "2026-09-21_0007_pika",
+      "date": "2026-09-21",
+      "session_id": "0007_pika",
+      "name": "Pika",
+      "started_at": "2026-09-19T07:26:32.401Z",
+      "ended_at": "2026-09-19T07:28:41.078Z",
+      "stroke_count": 20,
+      "point_count": 1079,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0007_pika/drawing.gif",
+      "png": "data/2026-09-21/0007_pika/drawing.png",
+      "session": "data/2026-09-21/0007_pika/session.json"
+    },
+    {
+      "id": "2026-09-21_0006_bine",
+      "date": "2026-09-21",
+      "session_id": "0006_bine",
+      "name": "Bine",
+      "started_at": "2026-09-19T07:19:41.709Z",
+      "ended_at": "2026-09-19T07:23:24.080Z",
+      "stroke_count": 16,
+      "point_count": 834,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0006_bine/drawing.gif",
+      "png": "data/2026-09-21/0006_bine/drawing.png",
+      "session": "data/2026-09-21/0006_bine/session.json"
+    },
+    {
+      "id": "2026-09-21_0005_amadej",
+      "date": "2026-09-21",
+      "session_id": "0005_amadej",
+      "name": "amadej",
+      "started_at": "2026-09-19T07:14:27.070Z",
+      "ended_at": "2026-09-19T07:19:26.653Z",
+      "stroke_count": 24,
+      "point_count": 1267,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0005_amadej/drawing.gif",
+      "png": "data/2026-09-21/0005_amadej/drawing.png",
+      "session": "data/2026-09-21/0005_amadej/session.json"
+    },
+    {
+      "id": "2026-09-21_0004_nicola",
+      "date": "2026-09-21",
+      "session_id": "0004_nicola",
+      "name": "Nicola",
+      "started_at": "2026-09-19T07:10:12.250Z",
+      "ended_at": "2026-09-19T07:13:18.530Z",
+      "stroke_count": 21,
+      "point_count": 2091,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0004_nicola/drawing.gif",
+      "png": "data/2026-09-21/0004_nicola/drawing.png",
+      "session": "data/2026-09-21/0004_nicola/session.json"
+    },
+    {
+      "id": "2026-09-21_0003",
+      "date": "2026-09-21",
+      "session_id": "0003",
+      "name": "",
+      "started_at": "2026-09-19T07:06:15.106Z",
+      "ended_at": "2026-09-19T07:08:39.220Z",
+      "stroke_count": 20,
+      "point_count": 778,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0003/drawing.gif",
+      "png": "data/2026-09-21/0003/drawing.png",
+      "session": "data/2026-09-21/0003/session.json"
+    },
+    {
+      "id": "2026-09-21_0002_jurij",
+      "date": "2026-09-21",
+      "session_id": "0002_jurij",
+      "name": "Jurij",
+      "started_at": "2026-09-19T07:04:44.477Z",
+      "ended_at": "2026-09-19T07:05:39.904Z",
+      "stroke_count": 19,
+      "point_count": 590,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0002_jurij/drawing.gif",
+      "png": "data/2026-09-21/0002_jurij/drawing.png",
+      "session": "data/2026-09-21/0002_jurij/session.json"
+    },
+    {
+      "id": "2026-09-21_0001_miha",
+      "date": "2026-09-21",
+      "session_id": "0001_miha",
+      "name": "Miha",
+      "started_at": "2026-09-19T06:59:42.648Z",
+      "ended_at": "2026-09-19T06:59:58.414Z",
+      "stroke_count": 2,
+      "point_count": 218,
+      "canvas": {
+        "w": 1920,
+        "h": 1080,
+        "background": "#ffffff"
+      },
+      "gif": "data/2026-09-21/0001_miha/drawing.gif",
+      "png": "data/2026-09-21/0001_miha/drawing.png",
+      "session": "data/2026-09-21/0001_miha/session.json"
+    }
+  ]
+}
